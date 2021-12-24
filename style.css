@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* remove default outline from buttons */
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+input[type='number'] {
+  -moz-appearance: textfield;
+  appearance: textfield;
+  margin: 0;
+  text-align: center;
+  width: 40%;
+  height: 2rem;
+  font-size: 1rem;
+}
+
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.nav-tabs {
+  border-bottom: 0;
+}
+
+@media (max-width: 575.98px) {
+  .nav-item {
+    padding-top: 1rem;
+    margin: 0 auto;
+  }
+}
