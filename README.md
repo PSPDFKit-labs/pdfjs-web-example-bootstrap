@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-This repository is an example of how to build a JavaScript PDF viewer with PDF.js. Check out the related [blog post](https://pspdfkit.com/blog/2021/how-to-build-a-bootstrap5-pdf-viewer-with-pdfjs/) and [demo](https://pspdfkit-labs.github.io/pdfjs-web-example-bootstrap/#)!
+This repository is an example of how to build a Bootstrap 5 PDF viewer with PDF.js. Check out the related [blog post](https://pspdfkit.com/blog/2021/how-to-build-a-bootstrap5-pdf-viewer-with-pdfjs/) and [demo](https://pspdfkit-labs.github.io/pdfjs-web-example-bootstrap/#)!
 
 ## Running the Example
 
